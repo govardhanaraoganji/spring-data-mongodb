@@ -12,7 +12,7 @@ import simple.spring.document.UserDetail;
 import simple.spring.repository.UserDetailRepository;
 
 /**
- * Hello world!
+ * Simple spring application with mongoDB.
  *
  */
 public class App {
